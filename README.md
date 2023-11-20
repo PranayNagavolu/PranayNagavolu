@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-```
+```json
 {
   "bio": "I'm the architect behind keystrokes that bring ideas to life. In a committed relationship with my keyboard. 🖥️ ❤️",
   "code": ["JavaScript", "Python", "Ruby"],
