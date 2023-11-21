@@ -2,6 +2,7 @@
 
 ```json
 {
+  "name": "Pranay Nagavolu" 
   "bio": "I'm the architect behind keystrokes that bring ideas to life. In a committed relationship with my keyboard. 🖥️ ❤️",
   "code": ["JavaScript", "Python", "C", "Java"],
   "askMeAbout": ["web dev", "tech gadgets", "the latest tech trends"],
